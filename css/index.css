@@ -88,3 +88,16 @@
     position: relative;
     top: 30px;
 }
+.img-edit{
+    border-radius: 20px;
+}
+.mid-sec-txt{
+    color: deeppink;
+}
+.mid-sec-1{
+    margin-top: 40px;
+    padding-left: 10px;
+}
+.mid-sec-2{
+    margin-top: 40px;
+}
