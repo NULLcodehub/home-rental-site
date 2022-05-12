@@ -1,0 +1,90 @@
+.navbar{
+    background-color: white;
+    border-bottom: 1px solid rgb(226, 226, 226);
+}
+.navbar{
+    font-family: 'Ubuntu', sans-serif;
+}
+.nav-links .nav-item{
+    margin-left: 60px !important;
+    padding:0px 5px 0px 5px;
+}
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+}
+.nav-item .btn{
+    background-color: deeppink !important;
+    color: white;
+    padding: auto;
+}
+.item1:hover{
+    color: white !important;
+    background: deeppink;
+    border-radius: 5px;
+    transition: background 0.5s ease;
+}
+.item2:hover{
+    color: white !important;
+    background: deeppink;
+    border-radius: 5px;
+    transition: background 0.5s ease;
+}
+.item3:hover{
+    color: white !important;
+    background: deeppink;
+    border-radius: 5px;
+    transition: background 0.5s ease;
+}
+.item4:hover{
+    color: white !important;
+    background: deeppink;
+    border-radius: 5px;
+    transition: background 0.5s ease;
+}
+
+.bg-image{
+    background: url("../image/bg.png");
+    height: 550px;
+    text-align: center;
+    
+}
+.box-in-bg{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgba(44, 44, 44, 0.322);
+    padding: 2%;
+}
+.box-in-bg h1{
+    font-size: 50px;
+    color: white;
+}
+.box-in-bg p{
+    
+    color: white;
+}
+.btn-in-bg{
+    background-color: rgb(253, 253, 253) !important;
+    color: rgb(78, 78, 78);
+    border-radius: 10px;
+    padding: auto;
+}
+.btn-in-bg:hover{
+    background-color: deeppink !important;
+    color: rgb(247, 247, 247);
+
+}
+.search{
+    background: rgb(255, 255, 255);
+    border-radius: 7px;
+    padding: 10px;
+    position: relative;
+    bottom: 50px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.search-btn{
+    background-color: black;
+    color: white !important;
+    position: relative;
+    top: 30px;
+}
