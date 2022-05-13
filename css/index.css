@@ -90,6 +90,8 @@
 }
 .img-edit{
     border-radius: 20px;
+    height: 350px;
+    width: 350px;
 }
 .mid-sec-txt{
     color: deeppink;
@@ -100,4 +102,32 @@
 }
 .mid-sec-2{
     margin-top: 40p
+}
+.mid-2{
+    margin-top: 50px;
+}
+.mid-div1 h1{
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.card{
+    border-radius: 10px;
+}
+.card img{
+    border-radius: 10px 10px 0px 0px; 
+}
+
+.for-tag{
+    color: white;
+    background-color: deeppink;
+    padding: 5px;
+    border-radius: 5px;
+}
+.card-footer{
+    background: #000;
+    width: 50%;
+    position: relative;
+    left: 50%;
+    color: white;
 }
