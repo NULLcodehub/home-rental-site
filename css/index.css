@@ -131,3 +131,25 @@
     left: 50%;
     color: white;
 }
+section{
+    margin-top: 50px;
+}
+.service-row1{
+    text-align: center;
+}
+.service1 h1{
+    font-size: 60px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.row.edit{
+    padding: 20px;
+}
+.icon-edit{
+    text-align: center;
+    padding: 30px;
+}
+.icon-edit i{
+    font-size: 50px;
+    color: deeppink;
+
+}
