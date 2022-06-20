@@ -210,3 +210,31 @@ a{
     background-color: rgba(15, 15, 15, 0.39);
     color: white;
 }
+.foot{
+    background-color: #000;
+    height: 300px;
+}
+.foot-col{
+    margin-top:30px;
+    /* margin: 20px; */
+    color: white;
+    /* padding-left: 60px; */
+}
+.footer-h1 {
+    color: white;
+}
+.news-letter{
+    color: deeppink;
+}
+.footer-btn{
+   background: white;
+   padding: 5px 10px 5px 10px;
+   border-radius: 10px;
+}
+.footer-input{
+    border: none;
+    border-radius: 10px;
+    height: 35px;
+    width: 400px;
+    padding:10px ;
+}
